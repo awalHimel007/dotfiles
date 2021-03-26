@@ -2,7 +2,7 @@
 # [Gedit Tool]
 # Input=nothing
 # Output=output-panel
-# Shortcut=<Shift>F1
+# Shortcut=F9
 # Applicability=titled
 # Save-files=document
 # Languages=c,cpp,java

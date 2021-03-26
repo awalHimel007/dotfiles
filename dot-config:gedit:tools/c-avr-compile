@@ -6,7 +6,7 @@
 # Name=Compile for AVR
 # Output=output-panel
 # Save-files=document
-# Shortcut=F4
+# Shortcut=F6
 
 cd $GEDIT_CURRENT_DOCUMENT_DIR
 mmcu=$(
